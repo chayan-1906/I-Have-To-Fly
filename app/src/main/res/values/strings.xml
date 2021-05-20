@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">I Have To Fly!</string>
+    <string name="high_score">High Score</string>
+    <string name="i_have_to_fly">I Have To Fly!</string>
+    <string name="txt_play">Play</string>
+    <string name="high_score_expert">High Score (Expert)</string>
+    <string name="high_score_easy">High Score (Easy)</string>
+    <string name="high_score_Medium">High Score (Medium)</string>
+    <string name="high_score_hard">High Score (Hard)</string>
+</resources>
